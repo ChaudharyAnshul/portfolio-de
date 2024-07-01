@@ -15,7 +15,7 @@ redirect_from:
 
 
 ### Knowledge Retrieval System (RAG Application)
-**Technologies:** RAG, Generative AI, ETL, Airflow, Snowflake, GCP, OpenAI, LLM, Pinecone Vector DB 
+**Technologies:** RAG, Generative AI, ETL, Airflow, Snowflake, GCP, OpenAI, LLM, Pinecone VectorDB   
 **GitHub Repository:** [Link to Repository](https://github.com/BigDataIA-Spring2024-Sec2-Team2/Assignment-5)  
 - Designed and implemented an ETL pipeline using Airflow to extract daily information from web sources, transform and load it into Snowflake, and utilized OpenAI's GPT model for efficient knowledge retrieval
 - Integrated vector embeddings in Airflow, stored them in a Pinecone vector database for rapid retrieval of information based on user queries and hosted the entire system on GCP for scalability
