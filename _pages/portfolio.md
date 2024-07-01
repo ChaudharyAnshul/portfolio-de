@@ -28,10 +28,9 @@ redirect_from:
 
 ### Automated PDF Data Extraction and Querying 
 **Technologies:** Snowflake, data pipelining, Airflow, DBT, AWS, PyPDF, Data extraction  
-**GitHub Repository:** [Link to Repository](https://github.com/BigDataIA-Spring2024-Sec2-Team2/Assignment-4)    
+**GitHub Repository:** [Link to Repository](https://github.com/ChaudharyAnshul/PDF-Data-Extraction)    
 - Created an application to convert unstructured PDFs to structured data, storing files in S3 and initiating an Airflow pipeline for parsing using PyPDF and loading into Snowflake, supporting 1000+ simultaneous requests
 -	Executed data transformation in DBT by loading Snowflake data into the DBT model and reloading it into the Snowflake production schema, while providing a Streamlit UI for querying all extracted data
-
 
 ### Text Classification using BERT (Financial Data) 
 **Technologies:** LLM models, HuggingFace BERT, Resampling, PyTorch, Scikit-Learn, Machine Learning  
