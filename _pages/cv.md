@@ -15,7 +15,7 @@ redirect_from:
 
 **Northeastern University** <br />
 **Master of Science**, Software Engineering Systems  
-_May 2025 (Expected)_
+_May 2025_
 
 **University of Mumbai** <br />
 **Bachelors of Engineering**, Information Technology  
@@ -26,21 +26,32 @@ _Jun 2021_
 **Nomad AI** <br />
 **Software Engineer Intern**  
 _Jul 2024 - Sep 2024_
-- Streamlined data integration processes by automating platform connections and improving data synchronization, reducing manual effort by 40% and enabling more timely financial insights for small businesses
-- Architected scalable data pipelines in Mage AI, optimizing the flow of financial data for 50+ small businesses
-- Built a Business Report pipeline to extract, preprocess, and analyze data from PostgreSQL with Pandas, integrating Llama 3.1 (LLM) to generate tailored financial reports, improving accuracy by 25%
-- Developed a system to compare small businesses with public companies, analyzing revenue trends alongside stock price changes to deliver key market insights
+-  Architected API integrations with sales applications to automate data ingestion, reducing manual effort by 40%
+- Crafted a scalable backend with NextJS and PostgreSQL, leveraging Prisma to handle 10,000+ requests per second
+- Improved performance insights by 70% using reusable ReactJS, and TypeScript components for the dashboard
+- Integrated AI agents with a user-friendly UI to provide business advice, boosting decision-making speed by 5X
+- Reduced load times by 30% through server-side rendering optimization in NextJS, enhancing full-stack performance
 
 **JPMorgan Chase & Co.** <br />
 **Software Engineer**  
 _Jul 2021 - Jul 2023_
-- Collaborated with Equity Trade Management in an agile manner to migrate a Java-based legacy system to a React web platform with Python backend, resulting in a 30% overall improvement in trade booking
-- Achieved an 50% increase in efficiency with Python workflows to automate onboarding and system checks
-- Enhanced execution time by 66% using GraphQL API to optimize the interaction between React and Python layers
-- Spearheaded the methodical debugging and re-engineering of a trade-syncing query, effectively fixing bugs that were affecting 25% of system bookings, improving accuracy in trade-syncing processes
-- AAchieved a 50% enhancement in data capture across two booking systems by seamlessly integrating GraphQL API, resulting in streamlined processes, enhanced system efficiency, and eliminated code redundancy
-- Streamlined the booking process by implementing quick booking logic with regular expressions, improving efficiency, reducing load times, and enhancing the user experience
-- Force For Good Program: Led the migration of 500+ user records for a non-profit from Excel to a relational database, and developed a React-based UI with reminder features to streamline data management and follow-ups
+- Collaborated with Equity Trade Management in an agile manner to migrate a Java-based legacy system to a React web system with Python backend
+- Designed Python workflows for user onboarding and system checks, increasing operational efficiency by 70%
+Formulated GraphQL APIs for bulk updating trades, reducing execution time from 2 min to 30 sec for 500+ trades
+- Spearheaded debugging of a trade-syncing query, fixing bugs that affected 25% of bookings and improving accuracy
+- Optimized the booking system using regular expressions, boosting efficiency by 20%, cutting load times by 35%
+- Architected models to generate structured trade reports for downstream reporting, to automate report delivery
+- Enhanced the Bulk Booking tool as SubjectMatter Expert, enabling it to load and book 500+ trades in under 30 seconds
+- Resolved support queries from traders and middle office users, ensuring smooth operations and minimal downtime
+- Led migration of 100k user data to MS SQL server and built a React UI with Flask for data management and follow-ups
+
+**TechnoEdge Learning Services** <br />
+**Software Engineer**  
+_May 2020 - Apr 2021_
+- Developed the company website with React to improve UI and responsiveness, boosting engagement by 30%
+- Implemented RESTful APIs with Flask and axios to streamline data retrieval, ensuring a smooth user experience
+- Collaborated closely with users to identify and address system challenges, improving overall functionality for users
+- Curated educational content for software technology learning, ensuring alignment with industry trends
 
 # Skills
 * **Programming Languages:** Python, Java, JavaScript, C, C++, HTML, CSS, SQL
